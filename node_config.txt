@@ -1,0 +1,15 @@
+{"network": "testnet",
+ "listen": "false",
+ "index-tx": "true",
+ "index-address": "true",
+ "bools": {"no_auth": true,
+           "daemon": true
+           },
+ "config_directory_prefix": "/home/dannya951/.hsd",
+ "ports": {"http": "13037",
+           "pool": "13038",
+           "wallet-http": "13039",
+           "ns": "15359",
+           "rs": "15360"
+           }
+ }
