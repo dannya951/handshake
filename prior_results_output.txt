@@ -1,0 +1,297 @@
+Report for All names:
+8036 names have been opened.
+1261 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        52.71.101.8: 1260
+        127.0.0.1: 1
+        129.93.168.41: 2
+        206.189.189.149: 1
+        185.199.110.153: 1
+        165.22.154.146: 2
+        165.22.151.242: 2
+        1.1.1.1: 3
+        34.74.41.18: 1
+        45.55.180.18: 1
+        198.71.233.135: 1
+        23.22.39.120: 1
+        35.199.148.65: 1
+        94.139.160.188: 1
+        174.129.25.170: 1
+        54.193.50.146: 1
+Unique host IP-address lists appeared in resources for the following number of names:
+        ['52.71.101.8']: 1260
+        ['127.0.0.1']: 1
+        ['129.93.168.41']: 2
+        ['206.189.189.149']: 1
+        ['185.199.110.153']: 1
+        ['165.22.154.146']: 2
+        ['165.22.151.242']: 2
+        ['1.1.1.1']: 3
+        ['34.74.41.18']: 1
+        ['45.55.180.18']: 1
+        ['198.71.233.135']: 1
+        ['23.22.39.120']: 1
+        ['35.199.148.65']: 1
+        ['94.139.160.188']: 1
+        ['174.129.25.170']: 1
+        ['54.193.50.146']: 1
+Unique canonical records appeared in resources for the following number of names:
+        matthewzipkin.com.: 1
+1286 names were still active by the last block (25000).
+6750 names were inactive by the last block (25000).
+92 names were opened more than once.
+62 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+3 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for Namebase.io names:
+1260 names have been opened.
+1260 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        52.71.101.8: 1260
+        127.0.0.1: 1
+        129.93.168.41: 2
+        206.189.189.149: 1
+        185.199.110.153: 1
+        165.22.154.146: 2
+        1.1.1.1: 3
+        34.74.41.18: 1
+        165.22.151.242: 1
+        45.55.180.18: 1
+        198.71.233.135: 1
+        23.22.39.120: 1
+        35.199.148.65: 1
+        94.139.160.188: 1
+        174.129.25.170: 1
+        54.193.50.146: 1
+Unique host IP-address lists appeared in resources for the following number of names:
+        ['52.71.101.8']: 1260
+        ['127.0.0.1']: 1
+        ['129.93.168.41']: 2
+        ['206.189.189.149']: 1
+        ['185.199.110.153']: 1
+        ['165.22.154.146']: 2
+        ['1.1.1.1']: 3
+        ['34.74.41.18']: 1
+        ['165.22.151.242']: 1
+        ['45.55.180.18']: 1
+        ['198.71.233.135']: 1
+        ['23.22.39.120']: 1
+        ['35.199.148.65']: 1
+        ['94.139.160.188']: 1
+        ['174.129.25.170']: 1
+        ['54.193.50.146']: 1
+Unique canonical records appeared in resources for the following number of names:
+        
+1240 names were still active by the last block (25000).
+20 names were inactive by the last block (25000).
+31 names were opened more than once.
+29 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for Non-Namebase.io names:
+6776 names have been opened.
+1 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        165.22.151.242: 1
+Unique host IP-address lists appeared in resources for the following number of names:
+        ['165.22.151.242']: 1
+Unique canonical records appeared in resources for the following number of names:
+        matthewzipkin.com.: 1
+46 names were still active by the last block (25000).
+6730 names were inactive by the last block (25000).
+61 names were opened more than once.
+33 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+3 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for one-domain-and-one-bid-testing names:
+97 names have been opened.
+0 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        
+Unique host IP-address lists appeared in resources for the following number of names:
+        
+Unique canonical records appeared in resources for the following number of names:
+        
+0 names were still active by the last block (25000).
+97 names were inactive by the last block (25000).
+0 names were opened more than once.
+0 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for one-domain-and-one-bid-test names:
+100 names have been opened.
+0 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        
+Unique host IP-address lists appeared in resources for the following number of names:
+        
+Unique canonical records appeared in resources for the following number of names:
+        
+33 names were still active by the last block (25000).
+67 names were inactive by the last block (25000).
+33 names were opened more than once.
+33 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for one-domain-one-bid-test names:
+98 names have been opened.
+0 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        
+Unique host IP-address lists appeared in resources for the following number of names:
+        
+Unique canonical records appeared in resources for the following number of names:
+        
+0 names were still active by the last block (25000).
+98 names were inactive by the last block (25000).
+0 names were opened more than once.
+0 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for three-hundred-domains-and-one-bid-testing names:
+600 names have been opened.
+18 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        52.71.101.8: 18
+Unique host IP-address lists appeared in resources for the following number of names:
+        ['52.71.101.8']: 18
+Unique canonical records appeared in resources for the following number of names:
+        
+19 names were still active by the last block (25000).
+581 names were inactive by the last block (25000).
+0 names were opened more than once.
+0 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for three-hundred-domains-ten-bids names:
+5372 names have been opened.
+9 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        52.71.101.8: 9
+Unique host IP-address lists appeared in resources for the following number of names:
+        ['52.71.101.8']: 9
+Unique canonical records appeared in resources for the following number of names:
+        
+9 names were still active by the last block (25000).
+5363 names were inactive by the last block (25000).
+0 names were opened more than once.
+0 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for test names:
+36 names have been opened.
+0 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        
+Unique host IP-address lists appeared in resources for the following number of names:
+        
+Unique canonical records appeared in resources for the following number of names:
+        
+0 names were still active by the last block (25000).
+36 names were inactive by the last block (25000).
+0 names were opened more than once.
+0 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for synack names:
+134 names have been opened.
+2 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        52.71.101.8: 2
+Unique host IP-address lists appeared in resources for the following number of names:
+        ['52.71.101.8']: 2
+Unique canonical records appeared in resources for the following number of names:
+        
+2 names were still active by the last block (25000).
+132 names were inactive by the last block (25000).
+0 names were opened more than once.
+0 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+0 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
+**********
+
+Report for unique names:
+1599 names have been opened.
+1232 names have at least one "hosts" record.
+Unique host IP addresses appeared in resources for the following number of names:
+        52.71.101.8: 1231
+        127.0.0.1: 1
+        129.93.168.41: 2
+        206.189.189.149: 1
+        185.199.110.153: 1
+        165.22.154.146: 2
+        165.22.151.242: 2
+        1.1.1.1: 3
+        34.74.41.18: 1
+        45.55.180.18: 1
+        198.71.233.135: 1
+        23.22.39.120: 1
+        35.199.148.65: 1
+        94.139.160.188: 1
+        174.129.25.170: 1
+        54.193.50.146: 1
+Unique host IP-address lists appeared in resources for the following number of names:
+        ['52.71.101.8']: 1231
+        ['127.0.0.1']: 1
+        ['129.93.168.41']: 2
+        ['206.189.189.149']: 1
+        ['185.199.110.153']: 1
+        ['165.22.154.146']: 2
+        ['165.22.151.242']: 2
+        ['1.1.1.1']: 3
+        ['34.74.41.18']: 1
+        ['45.55.180.18']: 1
+        ['198.71.233.135']: 1
+        ['23.22.39.120']: 1
+        ['35.199.148.65']: 1
+        ['94.139.160.188']: 1
+        ['174.129.25.170']: 1
+        ['54.193.50.146']: 1
+Unique canonical records appeared in resources for the following number of names:
+        matthewzipkin.com.: 1
+1223 names were still active by the last block (25000).
+376 names were inactive by the last block (25000).
+59 names were opened more than once.
+29 names were opened more than once and were still active by the last block (25000).
+0 names were opened within one day of when they became available.
+3 reserved names were registered.
+0 reserved names were claimed prior to becoming available for open registration.
+
