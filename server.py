@@ -57,7 +57,7 @@ def perform_iterative_deconstruction(hsd_directory_path, name_dicts):
     user_home_directory = '/home/' + username
 
     handshake_code_directory_prefix = user_home_directory + '/Documents/handshake/hsd'
-    handshake_data_directory_prefix = user_home_directory + '/Documents/scripts/data'
+    handshake_data_directory_prefix = user_home_directory + '/Documents/ms_project/data'
     node_config_path = handshake_data_directory_prefix + '/config/node_config.txt'
     node_config = json.loads(Iou.read_from_file(node_config_path))
 
@@ -109,7 +109,7 @@ def update_block_headers(hsd_directory_path, block_headers):
     user_home_directory = '/home/' + username
 
     handshake_code_directory_prefix = user_home_directory + '/Documents/handshake/hsd'
-    handshake_data_directory_prefix = user_home_directory + '/Documents/scripts/data'
+    handshake_data_directory_prefix = user_home_directory + '/Documents/ms_project/data'
     node_config_path = handshake_data_directory_prefix + '/config/node_config.txt'
     node_config = json.loads(Iou.read_from_file(node_config_path))
 

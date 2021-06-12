@@ -26,7 +26,7 @@ async def run_client(subprocess_index, user_home_directory, intervals, network='
     # print('Running client subprocess ' + str(subprocess_index) + '.')
 
     handshake_code_directory_prefix = user_home_directory + '/Documents/handshake/hsd'
-    handshake_data_directory_prefix = user_home_directory + '/Documents/scripts/data'
+    handshake_data_directory_prefix = user_home_directory + '/Documents/ms_project/data'
     node_config_path = handshake_data_directory_prefix + '/config/node_config.txt'
     node_config = json.loads(Iou.read_from_file(node_config_path))
     for port_key in node_config['ports']:
@@ -94,7 +94,7 @@ async def tests():
     user_home_directory = '/home/' + username
 
     handshake_code_directory_prefix = user_home_directory + '/Documents/handshake/hsd'
-    handshake_data_directory_prefix = user_home_directory + '/Documents/scripts/data'
+    handshake_data_directory_prefix = user_home_directory + '/Documents/ms_project/data'
     node_config_path = handshake_data_directory_prefix + '/config/node_config.txt'
     node_config = json.loads(Iou.read_from_file(node_config_path))
 
